@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">YelpAPI</string>
+    <string name="hello_world">Best Pizza near Bentley  "\n"</string>
+
+</resources>
