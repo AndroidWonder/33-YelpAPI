@@ -42,8 +42,8 @@ private TextView text = null;
 			
 			String consumerKey = "T2pVZpC8c6BuwjDDzqiMmg";
 		    String consumerSecret = "DMT6dD6WlBFDE7ltsT4ivbPTzMg";
-		    String token = "NQINOSfA4JvVfB4rZUeAt9v1AgeA5gNC";
-		    String tokenSecret = "4EC1d8gshNIYw4Cj_HXrBnIVvVo";
+		    String token = "-x3FGxZAK78F1HjpDPt2WK09vvURs0X-";
+		    String tokenSecret = "4OxIOVqdZDjeyN-M_MMOZ8HooQ0";
 		    
 		    int search_limit = 5;
 
