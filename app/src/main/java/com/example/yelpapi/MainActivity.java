@@ -42,15 +42,16 @@ private TextView text = null;
 			
 			String consumerKey = "T2pVZpC8c6BuwjDDzqiMmg";
 		    String consumerSecret = "DMT6dD6WlBFDE7ltsT4ivbPTzMg";
-		    String token = "-x3FGxZAK78F1HjpDPt2WK09vvURs0X-";
-		    String tokenSecret = "4OxIOVqdZDjeyN-M_MMOZ8HooQ0";
+		    String token = "AXU158WddGIc37yA4GMxX0R7QBBQxEF9";
+		    String tokenSecret = "ZUBOq5OEo-d9Nb73d2boBKAzmGU";  
+
 		    
 		    int search_limit = 5;
 
 		    Yelp yelp = new Yelp(consumerKey, consumerSecret, token, tokenSecret);
 		    String JSONFeed = yelp.search("pizza", 42.3889167, -71.2208033, search_limit);
 
-		   // System.out.println(JSONFeed);			
+		     //System.out.println(JSONFeed);
 			
 			//decode JSON
 			try {		
